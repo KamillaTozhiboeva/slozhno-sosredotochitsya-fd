@@ -91,7 +91,6 @@
   margin-top: 10px;
 }
 
-
 .header__theme-menu-button:focus-visible {
   border-block-end: 1px solid rgb(var(--nav-color-focus));
   outline: none;
@@ -384,7 +383,7 @@ a:focus {
 }
 
 .cards__list-container {
-   grid-template-columns: repeat(3, 1fr); 
+  grid-template-columns: repeat(3, 1fr);
 }
 
 .card-section_list {
