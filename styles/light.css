@@ -1,13 +1,12 @@
 :root.theme-light {
   --bg-image: url(../images/cover-image-light.png);
   --nav-color-focus: 53,52,48;
-  --third-color: #FFF1F7;
   --bg-color: #FFF1F7;
   --accent-color: #FF8DCB;
   --subtitle-color: #353430;
   --title-color: #353430;
   --title-header-color: #353430;
-  --secondary-color: #FFC2E6;
+  --color-h1: #FFC2E6;
   --color-text: #353430;
   --nav-color: #353430;
   --focus: #353430;
@@ -17,14 +16,13 @@
 @media (prefers-color-scheme: light) {
   :root {
   --bg-image: url(../images/cover-image-light.png);
-    --nav-color-focus: 53,52,48;
-  --third-color: #FFF1F7;
+  --nav-color-focus: 53,52,48;
   --bg-color: #FFF1F7;
   --accent-color: #FF8DCB;
   --subtitle-color: #353430;
   --title-color: #353430;
   --title-header-color: #353430;
-  --secondary-color: #FFC2E6;
+  --color-h1: #FFC2E6;
   --color-text: #353430;
   --nav-color: #353430;
   --focus: #353430;
